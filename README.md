@@ -5,6 +5,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Senchuu&show_icons=true&theme=tokyonight) [![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Senchuu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # What I use 
-[![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/fr/) [![Github](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/)
+[![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/fr/) [![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 
 
