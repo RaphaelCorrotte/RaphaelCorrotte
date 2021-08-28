@@ -1,4 +1,4 @@
-### Coucou 👋
+### Hi guys 👋
 
 [![Les Laboratoires Ruby](https://invidget.switchblade.xyz/4P7XcmbDnt)](https://discord.gg/4P7XcmbDnt)![Discord](https://discord.c99.nl/widget/theme-1/709815588016357429.png)
 
