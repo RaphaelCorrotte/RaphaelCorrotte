@@ -1,4 +1,9 @@
 ### Hi guys 👋
+I'm a young ruby developper. I love coding with ruby (that's really fantastic) and discover new things! I'm always asking myself why did I learnt ruby; but ther's no real reason except that's a cool an polyvalent language.
+
+I love programming new projects and discorver new approaches to reach my goales!
+
+See you 👋
 
 [![Les Laboratoires Ruby](https://invidget.switchblade.xyz/4P7XcmbDnt)](https://discord.gg/4P7XcmbDnt)![Discord](https://discord.c99.nl/widget/theme-1/709815588016357429.png)[![wakatime](https://wakatime.com/badge/user/04a71a0d-32d9-4ef5-94a2-f98b29367c15.svg)](https://wakatime.com/@04a71a0d-32d9-4ef5-94a2-f98b29367c15)
 
