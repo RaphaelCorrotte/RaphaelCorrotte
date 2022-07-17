@@ -1,5 +1,5 @@
 ### Hi guys 👋
-I'm a young ruby developper (14 yo). I love coding with ruby (that's really fantastic) and discover new things! I'm always asking myself why did I learn ruby; but there's no real reason except that's a cool an polyvalent language.
+I'm a young ruby developper. I love coding with ruby (that's really fantastic) and discover new things! I'm always asking myself why did I learn ruby; but there's no real reason except that's a cool an polyvalent language.
 
 I love programming new projects and discorver new approaches to reach my goales!
 
