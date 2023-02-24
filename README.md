@@ -1,5 +1,5 @@
 ### Hi guys 👋
-I'm a young ruby developper. I love coding with ruby (that's really fantastic) and discover new things! I'm always wondering why did I chose ruby. But there's no real reason except that's a cool an polyvalent language.
+I'm a young ruby developper. I'm in love with the Ruby philosophia; polyvalence and freedom. 
 
 I love programming new projects and discorver new approaches to reach my goales!
 
